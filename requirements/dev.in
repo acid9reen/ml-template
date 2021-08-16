@@ -1,0 +1,6 @@
+-r docs.in
+matplotlib
+notebook
+numpy
+pandas
+pip-tools
